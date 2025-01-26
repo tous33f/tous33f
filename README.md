@@ -100,8 +100,7 @@ I am a **Computer Science** student, currently halfway through my degree, I am e
             <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black&color=blue">
           </a>
         </p>
-        <p><strong>Kollege</strong> is a comprehensive web-based platform designed to revolutionize online learning and community engagement, aimed to create a vibrant ecosystem that supports the pursuit of knowledge, creativity, and innovation. Our goal is to provide a user-friendly, intuitive, and engaging platform that empowers individuals and communities to reach their full potential.
-engagement</p>
+        <p><strong>Kollege</strong> is a comprehensive web-based platform designed to revolutionize online learning and community engagement, aimed to create a vibrant ecosystem that supports the pursuit of knowledge, creativity, and innovation. Our goal is to provide a user-friendly, intuitive, and engaging platform that empowers individuals and communities to reach their full potential.</p>
       </div>
     </td>
   </tr>
